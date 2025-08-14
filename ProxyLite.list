@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,sehuatang.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,TMDB,themoviedb

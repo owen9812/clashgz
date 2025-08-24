@@ -18,5 +18,5 @@ DOMAIN-SUFFIX,hdhive.com
 
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,TMDB,themoviedb
+DOMAIN-KEYWORD,TMDB,themoviedb,hdhive
 
